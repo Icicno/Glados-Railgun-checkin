@@ -18,7 +18,7 @@
 
 ### 注册 GLaDOS 账号
 
-注册地址：<https://glados.space/landing/0A58E-NV28S-6U3QV-33VMG>
+注册地址：<https://glados.space>
 
 ### Fork 本仓库
 
